@@ -1,0 +1,6 @@
+{
+  "name": "BHAIYO KI PHADAI",
+  "description": "Har Student Ka Haq, Har Scholarship Ki Khabar. An AI-powered scholarship discovery platform for Indian students with explainable eligibility matching, real TinyFish discovery, deadline verification, and application tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
